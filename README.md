@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rupuck
-- 👀 I’m interested in Laravel
+- 👀 I’m interested in Progressive Web Development and Machine Learning Projects
 - 🌱 I’m currently learning about Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
