@@ -1,8 +1,4 @@
 Hi! My name is Andreas Putra Wijaya
-- 👀 I’m interested in Progressive Web Development and Machine Learning Projects
-- 🌱 I’m currently learning about Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 Thanks for coming to my GitHub! 😁
